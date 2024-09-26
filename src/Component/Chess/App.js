@@ -63,6 +63,7 @@ const App = () => {
 
   // check status
   // after stage
+  // merge connflict check
   //test new commint or merge conflict
   //create aging conflict
   return (
