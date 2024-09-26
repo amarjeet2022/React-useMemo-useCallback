@@ -62,6 +62,7 @@ const App = () => {
   }, []);
 
   // check status
+  // after stage
   return (
     <div className="chessboard">
       {chess.length > 0 &&
