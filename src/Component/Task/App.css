@@ -1,0 +1,43 @@
+.token-generator-container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .token-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .form-group {
+    flex: 1 1 45%;
+  }
+  
+  .form-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .token-grid {
+    display: grid;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .token {
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .blue-token {
+    background-color: blue;
+    color: white;
+  }
+  
+  .red-token {
+    background-color: red;
+    color: white;
+  }
+  
