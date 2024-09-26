@@ -63,6 +63,7 @@ const App = () => {
 
   // check status
   // after stage
+  //test new commint or merge conflict
   return (
     <div className="chessboard">
       {chess.length > 0 &&
