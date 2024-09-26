@@ -61,6 +61,7 @@ const App = () => {
     setChess(result);
   }, []);
 
+  // check status
   return (
     <div className="chessboard">
       {chess.length > 0 &&
